@@ -1,6 +1,6 @@
 # Entornos-A2
 UF -2 
-- You nedd to create a GitHub account. 
+- You need to create a GitHub account. 
 - Then create a new repository on GitHub.
 - You need to clone the repository with "git clone (repository URL)".
 - You will work on local "cd" (repository name)" 
